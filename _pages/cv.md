@@ -11,25 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Harvey Mudd College, 2016
+* M.S. in Applied Mathematics, University of Colorado Boulder, 2018
+* Ph.D in Applied Mathematics, University of Colorado Boulder, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017-Current: Research Assistant
+  * University of Colorado Boulder
+  * Supervisor: Alireza Doostan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Data Science Summer Institute Graduate Intern
+  * Lawrence Livermore National Laboratory
+  * Supervisor: Ben Priest
+
+* Summer 2019: Computing Graduate Intern
+  * Lawrence Livermore National Laboratory
+  * Supervisor: Alyson Fox
+
+* Spring 2017: Teaching Assistant
+  * University of Colorado Boulder
+ 
   
 Skills
 ======
-* Skill 1
+* Python, MATLAB, Julia, C++
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
