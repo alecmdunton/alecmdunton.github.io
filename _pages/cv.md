@@ -21,6 +21,17 @@ Work experience
   * University of Colorado Boulder
   * Supervisor: Alireza Doostan
 
+* Summer 2020: Data Science Summer Institute
+  * Lawrence Livermore National Laboratory
+  * Supervisor: Ben Priest
+
+* Summer 2019: Computing Graduate Intern
+  * Lawrence Livermore National Laboratory
+  * Supervisor: Alyson Fox
+
+* Spring 2017: Teaching Assistant
+  * University of Colorado Boulder
+
   
 Skills
 ======
