@@ -15,3 +15,12 @@ Research Interests
 
 Nonlinear Dimensionality Reduction 
 ------
+
+Linear Dimensionality Reduction 
+------
+
+Online Algorithms 
+------
+
+Matrix Sketching
+------
