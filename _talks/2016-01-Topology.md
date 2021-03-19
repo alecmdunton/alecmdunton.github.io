@@ -1,5 +1,5 @@
 ---
-title: "Topological Data Analysis for Systems of Coupled Oscillators"
+title: "Topological data analysis for systems of coupled oscillators"
 collection: talks
 type: "Poster"
 permalink: /talks/2016-01-Topology
