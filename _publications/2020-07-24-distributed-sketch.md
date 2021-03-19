@@ -5,9 +5,9 @@ permalink: /publication/2020-07-24-distributed-sketch
 excerpt: 
 date: 2020-07-24
 venue: 'IEEE HPEC Graph Challenge'
-paperurl: 'http://academicpages.github.io/files/graph_distributed_sketches.pdf'
+paperurl: 'http://alecmdunton.github.io/files/graph_distributed_sketches.pdf'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/graph_distributed_sketches.pdf)
+[Download paper here](http://alecmdunton.github.io/files/graph_distributed_sketches.pdf)
 
