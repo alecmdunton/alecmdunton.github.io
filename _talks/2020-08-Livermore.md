@@ -1,5 +1,5 @@
 ---
-title: "Scaling Graph Clustering with Distributed Sketches"
+title: "Scaling graph clustering with distributed sketches"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-08-Livermore
