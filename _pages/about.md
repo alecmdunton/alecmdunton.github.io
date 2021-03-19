@@ -33,4 +33,4 @@ Across my projects, whether the goal is compressing data or identifying clusters
 Matrix Sketching
 ------
 
-Matrix sketching is a linear dimensionality reduction technique wherein a large-scale data matrix is embedded in a lower dimension via application of a linear operator. If this linear operator is constructed properly, the resulting sketch matrix will preserve important geometric properties of the input matrix in a significantly lower dimensional space. 
+Matrix sketching has played a central role in almost all of my research as a PhD student. Matrix sketching is a linear dimensionality reduction technique wherein a large-scale data matrix is embedded in a lower dimension via application of a linear operator. If this linear operator is constructed properly, the resulting sketch matrix will preserve important geometric properties of the input matrix in a significantly lower dimensional space. 
