@@ -1,7 +1,7 @@
 ---
 title: "Scaling graph clustering with distributed sketches"
 collection: publications
-permalink: /publication/2020-07-24-distributed-sketch
+permalink: /publications/2020-07-24-distributed-sketch
 excerpt: 
 date: 2020-07-24
 venue: 'IEEE HPEC Graph Challenge'
