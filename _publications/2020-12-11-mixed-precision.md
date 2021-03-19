@@ -5,9 +5,9 @@ permalink: /publications/2020-12-11-mixed-precision
 excerpt: 
 date: 2020-11-12
 venue: 'arXiv'
-paperurl: 'http://academicpages.github.io/files/mixed_precision.pdf'
+paperurl: 'http://alecmdunton.github.io/files/mixed_precision.pdf'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/mixed_precision.pdf)
+[Download paper here](http://alecmdunton.github.io/files/mixed_precision.pdf)
 
