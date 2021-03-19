@@ -31,11 +31,21 @@ Work experience
 
 * Spring 2017: Teaching Assistant
   * University of Colorado Boulder
+  
+* Summer 2016: Post-Bac Researcher in Topological Data Analysis
+  * Harvey Mudd College
+  * Supervisor: Weiqing Gu
+
+* Summer 2015: Undegraduate Research Assistant in Topological Data Analysis
+  * Harvey Mudd College
+  
+* Summer 2014: Data Engineering Intern
+  * Intuit
 
   
 Skills
 ======
-* Python, MATLAB, Julia, C++
+* Python, MATLAB, Julia, C++, Linux, LaTeX
 
 Publications
 ======
