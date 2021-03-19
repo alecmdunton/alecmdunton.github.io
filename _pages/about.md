@@ -13,3 +13,5 @@ I am a 5th year graduate student in the Department of Applied Mathematics at the
 Research Interests 
 ======
 
+Nonlinear Dimensionality Reduction 
+------
