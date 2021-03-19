@@ -19,25 +19,26 @@ Work experience
 ======
 * Summer 2017-Present: Research Assistant
   * University of Colorado Boulder
-  * Supervisor: Alireza Doostan
+  * Supervisor: Dr. Alireza Doostan
 
 * Summer 2020: Data Science Summer Institute
   * Lawrence Livermore National Laboratory
-  * Supervisor: Ben Priest
+  * Supervisor: Dr. Ben Priest
 
 * Summer 2019: Computing Graduate Intern
   * Lawrence Livermore National Laboratory
-  * Supervisor: Alyson Fox
+  * Supervisor: Dr. Alyson Fox
 
 * Spring 2017: Teaching Assistant
   * University of Colorado Boulder
   
-* Summer 2016: Post-Bac Researcher in Topological Data Analysis
+* Summer 2016: Post-Bac Researcher
   * Harvey Mudd College
-  * Supervisor: Weiqing Gu
+  * Supervisor: Dr. Weiqing Gu
 
-* Summer 2015: Undegraduate Research Assistant in Topological Data Analysis
+* Summer 2015: Undegraduate Research Assistant
   * Harvey Mudd College
+  * Supervisor: Dr. Andrew Bernoff
   
 * Summer 2014: Data Engineering Intern
   * Intuit
@@ -46,12 +47,3 @@ Work experience
 Skills
 ======
 * Python, MATLAB, Julia, C++, Linux, LaTeX
-
-Publications
-======
- 
-  
-Talks
-======
-
-  
