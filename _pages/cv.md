@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Unabbreviated CV Here](http://alecmdunton.github.io/files/Dunton_CV_Current.pdf)
 
 Education
 ======
