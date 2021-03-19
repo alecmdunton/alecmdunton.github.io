@@ -3,7 +3,7 @@ title: "Scaling graph clustering with distributed sketches"
 collection: publications
 permalink: /publication/2020-07-24
 excerpt: 
-date: 2010-07-24
+date: 2020-07-24
 venue: 'IEEE HPEC Graph Challenge'
 paperurl: 'http://academicpages.github.io/files/graph_distributed_sketches.pdf'
 ---
