@@ -1,7 +1,7 @@
 ---
 title: "Pass-efficient methods for compression of high dimensional turbulent flow data"
 collection: publications
-permalink: /publication/2020-01-28-pass-efficient
+permalink: /publications/2020-01-28-pass-efficient
 excerpt: ''
 date: 2020-01-28
 venue: 'Journal of Computational Physics'
