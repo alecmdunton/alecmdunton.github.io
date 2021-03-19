@@ -51,12 +51,12 @@ Skills
 
 Awards & Honors
 ======
-* HPEC Graph Challenge Team Champion 2020
-* SIAM Student Travel Award 2019
-* Graduate School Travel Grant 2018
-* UGGS Student Travel Grant 2018
-* Graduation with High Distinction 2016
-* Graduation with Honors in Mathematics 2016
-* Murphy Fellowship - Northwestern University (Declined) 2016
-* AMS-MAA JMM Outstanding Student Presenter 2016
-* Stavros Busenberg Prize in Applied Mathematics 2015
+* HPEC Graph Challenge Team Champion (2020)
+* SIAM Student Travel Award (2019)
+* Graduate School Travel Grant (2018)
+* UGGS Student Travel Grant (2018)
+* Graduation with High Distinction (2016)
+* Graduation with Honors in Mathematics (2016)
+* Murphy Fellowship - Northwestern University (Declined) (2016)
+* AMS-MAA JMM Outstanding Student Presenter (2016)
+* Stavros Busenberg Prize in Applied Mathematics (2015)
