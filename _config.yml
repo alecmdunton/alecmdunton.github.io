@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alec Michael Dunton"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Alec Michael Dunton"
 description              : &description "PhD Candidate in Applied Mathematics at CU Boulder"
