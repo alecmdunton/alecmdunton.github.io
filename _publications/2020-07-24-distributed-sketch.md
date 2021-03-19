@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-07-24-distributed-sketch
 excerpt: ''
 date: 2020-07-24
-venue: 'IEEE HPEC Graph Challenge'
+venue: '2020 IEEE High Performance Extreme Computing Conference'
 paperurl: 'http://alecmdunton.github.io/files/graph_distributed_sketches.pdf'
 ---
 
