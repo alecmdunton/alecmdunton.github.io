@@ -16,6 +16,8 @@ Research Interests
 Nonlinear Dimensionality Reduction 
 ------
 
+My current research can be found under the buzzword umbrella of scientific machine learning (SciML) and is centered on using nonlinear approaches such as Kernel Principal Component Analysis (Kernel PCA) and Autoencoders for data compression in scientific applications. These techniques possess significant advantages over analogous linear approaches like PCA and matrix interpolative decomposition when the problem of concern features sharp nonlinearities, e.g., shock solutions.
+
 Linear Dimensionality Reduction 
 ------
 
