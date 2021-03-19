@@ -26,7 +26,7 @@ A lot of the work I did earlier on in my PhD was concerned with using linear low
 Online Algorithms 
 ------
 
-Across my projects, whether the goal is compressing data or identifying clusters in large-scale graphs, I am interested in building algorithms that achieve performant results having seen their input once, i.e, online algorithms. When the data we have to process exceeds available RAM -- or even disk memory -- we want to minimize the number of passes we make over our input and the associated costs of memory movement. Online approaches help us address this concern.
+Across my projects, whether the goal is compressing data or identifying clusters in large-scale graphs, I am interested in building algorithms that achieve performant results having seen their input once, i.e., online algorithms. When the data we have to process exceeds available RAM -- or even disk memory -- we want to minimize the number of passes we make over our input and the associated costs of memory movement. Online approaches help us address this concern.
 
 
 
