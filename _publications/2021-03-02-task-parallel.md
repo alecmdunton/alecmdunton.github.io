@@ -2,7 +2,7 @@
 title: "Task-parallel in-situ temporal compression of large-scale computational fluid dynamics data"
 collection: publications
 permalink: /publications/2021-03-02-task-parallel
-excerpt: ''
+excerpt: 'Using the task-based Legion programming model, a single-pass ID algorithm (SPID) for CFD applications is implemented. Performance studies, scalability, and the accuracy of the compression algorithms are presented for a benchmark analytical Taylor-Green vortex problem, followed by a large-scale implementation of a compressible Taylor-Green vortex using a high-order Navier-Stokes solver.'
 date: 2021-03-02
 venue: 'arXiv'
 paperurl: 'http://alecmdunton.github.io/files/task_parallel.pdf'
