@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Abbreviated CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Unabbreviated CV Here](http://alecmdunton.github.io/files/Dunton_CV_Current.pdf)
+[Full CV Here](http://alecmdunton.github.io/files/Dunton_CV_Current.pdf)
 
 Education
 ======
