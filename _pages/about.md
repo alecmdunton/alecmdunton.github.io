@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year graduate student in the Department of Applied Mathematics at the University of Colorado Boulder. I work with Dr. Alireza Doostan and am a member of the Uncertainty Quantification, Learning, and Estimation from Data (UQLED) Group.
+I am a 5th year graduate student in the Department of Applied Mathematics at the University of Colorado Boulder. I work with Dr. Alireza Doostan and am a member of the Uncertainty Quantification, Learning, and Estimation from Data (UQLED) Group. 
+
+Prior to CU, I completed my undergraduate degree in mathematics at Harvey Mudd College in Claremont, California. I did my senior thesis with Dr. Andrew Bernoff, in which I used methods from algebraic topology to identify low-dimensional structures in dynamical systems. 
 
 Research Interests 
 ======
