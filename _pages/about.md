@@ -21,7 +21,7 @@ My current research can be found under the buzzword umbrella of scientific machi
 Linear Dimensionality Reduction 
 ------
 
-A lot of the work I did earlier on in my PhD was concerned with using linear low-rank matrix approximation methods for compression of scientific data. I've developed memory- and pass-efficient algorithms for computing the singular value decomposition (SVD) and ID of matrices arising in the simulation of turbulent flows. 
+A lot of the work I did earlier on in my PhD was concerned with developing linear low-rank matrix approximation methods for compression of scientific data. I've built memory- and pass-efficient algorithms for computing the singular value decomposition (SVD) and ID of matrices arising in the simulation of turbulent flows. 
 
 Online Algorithms 
 ------
