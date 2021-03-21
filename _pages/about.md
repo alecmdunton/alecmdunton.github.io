@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Department of Applied Mathematics at the University of Colorado Boulder expecting to finish this summer. I work with Dr. Alireza Doostan and am a member of the Uncertainty Quantification, Learning, and Estimation from Data (UQLED) Group. 
+I am a PhD candidate in the Department of Applied Mathematics at the University of Colorado Boulder expecting to finish this summer. I work with Dr. Alireza Doostan and am a member of the Uncertainty Quantification, Learning, and Estimation from Data (UQLED) Group. 
 
 Prior to CU, I completed my undergraduate degree in mathematics at Harvey Mudd College in Claremont, California. I did my senior thesis with Dr. Andrew Bernoff, in which I developed methods using algebraic topology to identify persistent topological structures in dynamical systems.  
 
