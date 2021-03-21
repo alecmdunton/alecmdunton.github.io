@@ -14,7 +14,7 @@ Prior to CU, I completed my undergraduate degree in mathematics at Harvey Mudd C
 
 A common theme connecting my work back to my days at Mudd is using data-driven approaches to study physical systems, especially when doing so relies on rigorous mathematical theory. I have always been particularly interested in identifying low-dimensional features in high-dimensional datasets. The applications of my work vary from clustering and visualization to data compression.
 
-Research Interests 
+Current Research Interests 
 ======
 
 Nonlinear Dimensionality Reduction 
