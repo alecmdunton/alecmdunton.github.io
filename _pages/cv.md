@@ -47,7 +47,7 @@ Work experience
   
 Skills
 ======
-* Python, MATLAB, Julia, C++, Linux, LaTeX
+* Python, MATLAB, Julia, C++, Debian Linux, Mac OSX, Windows, LaTeX
 
 Awards & Honors
 ======
