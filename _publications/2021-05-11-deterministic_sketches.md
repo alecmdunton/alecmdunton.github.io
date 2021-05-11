@@ -2,7 +2,7 @@
 title: "Deterministic matrix sketches for low-rank compression of high-dimensional simulation data"
 collection: publications
 permalink: /publications/2021-05-11-deterministic-sketches
-excerpt: ''
+excerpt: 'In this work, deterministic matrix sketches which generate coarse representations – compatible with the corresponding PDE solve – are considered in the computation of the singular value decomposition and matrix interpolative decomposition. A novel single-pass, i.e., requiring one read over the input, power iteration algorithm is also presented. '
 date: 2021-05-11
 venue: 'arXiv'
 paperurl: 'http://alecmdunton.github.io/files/2105.01271.pdf'
