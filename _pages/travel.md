@@ -31,6 +31,8 @@ Western Montana & Panhandle Idaho
 <img src="/files/mt_aeneas.jpg" style="width:300px;"/>
 <img src="/files/thompson_falls.jpg" style="width:300px;"/>
 
+Coming soon...
+===========================
 
 Idyllwild & Joshua Tree
 ===========================
