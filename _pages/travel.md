@@ -27,6 +27,10 @@ Palouse Falls
 
 Western Montana & Panhandle Idaho
 ===========================
+<img src="/files/bearhat_mountain.jpg" style="width:300px;"/>
+<img src="/files/mt_aeneas.jpg" style="width:300px;"/>
+<img src="/files/thompson_falls.jpg" style="width:300px;"/>
+
 
 Idyllwild & Joshua Tree
 ===========================
