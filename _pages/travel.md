@@ -1,5 +1,5 @@
 ---
-permalink: /travel/
+permalink: /
 title: "Travel"
 excerpt: "Travel"
 author_profile: true
