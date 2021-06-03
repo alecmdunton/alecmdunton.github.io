@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Travel"
-permalink: /travel/
+title: "Abbreviated CV"
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
+{% include base_path %}
 ---
 When I can, I enjoy spending time outside in (primarily) the Western U.S. Here are a few snaps of places I've been recently.
 
