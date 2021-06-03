@@ -11,4 +11,5 @@ When I can, I enjoy spending time outside in (primarily) the Western U.S. Here a
 
 Northern California & Oregon
 ==========================
+![](files/norcal_fishing.jpg)
 
