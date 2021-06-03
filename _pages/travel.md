@@ -17,8 +17,8 @@ Northern California & Oregon
 Grand Teton
 ===========================
 <img src="/files/alberta_peak_bottom.jpg" style="width:300px;"/>
-<img src="/files/bachelor_view.jpg" style="width:300px;"/>
-<img src="/files/tahoe_view.jpg" style="width:300px;"/>
+<img src="/files/alberta_peak_ascent.jpg" style="width:300px;"/>
+<img src="/files/alberta_peak_descent.jpg" style="width:300px;"/>
 
 Palouse Falls
 ===========================
