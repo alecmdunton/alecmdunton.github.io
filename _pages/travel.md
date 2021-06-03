@@ -22,6 +22,8 @@ Grand Teton
 
 Palouse Falls
 ===========================
+<img src="/files/palouse_falls.jpg" style="width:450px;"/>
+<img src="/files/snake_river_palouse.jpg" style="width:450px;"/>
 
 Western Montana & Panhandle Idaho
 ===========================
