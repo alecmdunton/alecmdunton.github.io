@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 [Full CV Here](http://alecmdunton.github.io/files/Dunton_CV_Current.pdf)
 
+Citizenship
+======
+United States & United Kingdom
+
 Education
 ======
 * BS in Mathematics, Harvey Mudd College, 2016
