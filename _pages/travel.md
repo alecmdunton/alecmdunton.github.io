@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-When I can, I enjoy spending time outside in (primarily) the Western U.S. Here are a few snaps of places I've been recently.
+When I can, I enjoy spending time outside in (primarily) the Western U.S. When I can't, I'm planning my next trip. Here are a few snaps of places I've been in recent years in no particular order.
 
 Northern California & Oregon
 ==========================
@@ -17,5 +17,17 @@ Northern California & Oregon
 Grand Teton
 ===========================
 <img src="/files/alberta_peak_bottom.jpg" style="width:300px;"/>
-<img src="/files/alberta_peak_ascent.jpg" style="width:300px;"/>
-<img src="/files/alberta_peak_descent.jpg" style="width:300px;"/>
+<img src="/files/bachelor_view.jpg" style="width:300px;"/>
+<img src="/files/tahoe_view.jpg" style="width:300px;"/>
+
+Palouse Falls
+===========================
+
+Western Montana & Panhandle Idaho
+===========================
+
+Idyllwild & Joshua Tree
+===========================
+
+Wolf Creek & Aspen 
+===========================
