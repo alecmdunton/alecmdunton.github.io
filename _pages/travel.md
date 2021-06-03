@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-When I can, I enjoy spending time outside camping, hiking, and snowboarding, mostly in the Western U.S. When I can't, I'm planning my next trip.  In no particular order, here are a few snaps of places I've been in recent years (some of them I've been to many times).
+When I can, I enjoy spending time outside camping, hiking, and snowboarding, mostly in the western U.S. When I can't, I'm planning my next trip.  In no particular order, here are a few snaps of places I've been in recent years (some of them I've been to many times).
 
 Northern California & Oregon
 ==========================
