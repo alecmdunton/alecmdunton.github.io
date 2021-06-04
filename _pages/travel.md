@@ -196,6 +196,9 @@ Lost Coast
 
 Warner Mountains
 ===========================
+<p align="center">
+<img src="/files/warner_mountains.jpg" style="width:800px;"/>
+</p>
 
 Missoula
 ===========================
