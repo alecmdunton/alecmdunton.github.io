@@ -53,6 +53,8 @@ Zion
 
 Alaska 
 ===========================
+<img src="/files/ocean_alaska.jpg" style="width:450px;"/>
+<img src="/files/glacier_alaska.jpg" style="width:450px;"/>
 
 Aspen 
 ===========================
