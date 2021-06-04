@@ -142,6 +142,14 @@ Lassen
 <img src="/files/cinder_cone_lassen.jpg" style="width:300px;"/>
 </p>
 
+Southern Wyoming & Northern Colorado
+===========================
+
+<p align="center">
+<img src="/files/medicine_bow.jpg" style="width:450px;"/>
+<img src="/files/northern_colorado.jpg" style="width:450px;"/>
+</p>
+
 Death Valley
 ===========================
 <p align="center">
