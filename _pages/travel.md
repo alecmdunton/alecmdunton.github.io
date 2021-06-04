@@ -98,6 +98,9 @@ Big Sur
 
 Even MOregon
 ===========================
+<img src="/files/lake_oregon.jpg" style="width:300px;"/>
+<img src="/files/sean_evan_oregon.jpg" style="width:300px;"/>
+<img src="/files/tamolitch_oregon.jpg" style="width:300px;"/>
 
 Mesa Verde
 ===========================
