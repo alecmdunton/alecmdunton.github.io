@@ -36,7 +36,7 @@ Joshua Tree
 ===========================
 <img src="/files/black_rock_j_tree.jpg" style="width:300px;"/>
 <img src="/files/volcano_j_tree.jpg" style="width:300px;"/>
-<img src="/files/sunset_j_tree.jpg" style="width:300px;"/>
+<img src="/files/palms_j_tree.jpg" style="width:300px;"/>
 
 Wolf Creek & Aspen 
 ===========================
