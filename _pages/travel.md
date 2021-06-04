@@ -31,11 +31,12 @@ Western Montana & Panhandle Idaho
 <img src="/files/mt_aeneas.jpg" style="width:300px;"/>
 <img src="/files/thompson_falls.jpg" style="width:300px;"/>
 
-Coming soon...
-===========================
 
-Idyllwild & Joshua Tree
+Joshua Tree
 ===========================
+<img src="/files/black_rock_j_tree.jpg" style="width:300px;"/>
+<img src="/files/volcano_j_tree.jpg" style="width:300px;"/>
+<img src="/files/sunset_j_tree.jpg" style="width:300px;"/>
 
 Wolf Creek & Aspen 
 ===========================
