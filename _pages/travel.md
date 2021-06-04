@@ -193,6 +193,11 @@ Utah
 
 Lost Coast
 ===========================
+<p align="center">
+<img src="/files/foggy_lost_coast.jpg" style="width:300px;"/>
+<img src="/files/sunny_lost_coast.jpg" style="width:300px;"/>
+<img src="/files/sunset_lost_coast.jpg" style="width:300px;"/>
+</p>
 
 Warner Mountains
 ===========================
