@@ -87,6 +87,9 @@ Grand Teton (Summer Edition)
 
 Olympic National Park
 ===========================
+<img src="/files/mountain_olympic.jpg" style="width:300px;"/>
+<img src="/files/tree_olympic.jpg" style="width:300px;"/>
+<img src="/files/ocean_olympic.jpg" style="width:300px;"/>
 
 Big Sur 
 ===========================
