@@ -38,13 +38,16 @@ Joshua Tree
 <img src="/files/volcano_j_tree.jpg" style="width:300px;"/>
 <img src="/files/palms_j_tree.jpg" style="width:300px;"/>
 
-Wolf Creek & Aspen 
+Wolf Creek  
 ===========================
 
 Zion
 ===========================
 
 Alaska 
+===========================
+
+Aspen 
 ===========================
 
 MOregon
