@@ -110,6 +110,9 @@ Mesa Verde
 
 Lassen
 ===========================
+<img src="/files/peak_lassen.jpg" style="width:300px;"/>
+<img src="/files/bumpass_hell_lassen.jpg" style="width:300px;"/>
+<img src="/files/cinder_cone_lassen.jpg" style="width:300px;"/>
 
 Death Valley
 ===========================
