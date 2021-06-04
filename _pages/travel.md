@@ -76,6 +76,8 @@ Taos
 
 Trinity Alps
 ===========================
+<img src="/files/one_trinity.jpg" style="width:450px;"/>
+<img src="/files/two_trinity.jpg" style="width:450px;"/>
 
 Grand Teton (Summer Edition)
 ===========================
