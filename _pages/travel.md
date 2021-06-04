@@ -41,7 +41,7 @@ Joshua Tree
 Wolf Creek  
 ===========================
 <p align="center">
-<img src="/files/wolf_creek.JPG" style="width:600px;"/>
+<img src="/files/wolf_creek.JPG" style="width:800px;"/>
 </p>
 
 Zion
@@ -104,6 +104,9 @@ Even MOregon
 
 Mesa Verde
 ===========================
+<p align="center">
+<img src="/files/mesa_verde.jpg" style="width:800px;"/>
+</p>
 
 Lassen
 ===========================
