@@ -168,6 +168,11 @@ New Mexico
 
 Northern Michigan
 ===========================
+<p align="center">
+<img src="/files/trees_michigan.jpg" style="width:300px;"/>
+<img src="/files/lake_michigan.jpg" style="width:300px;"/>
+<img src="/files/flags_michigan.jpg" style="width:300px;"/>
+</p>
 
 Arizona
 ==========================
