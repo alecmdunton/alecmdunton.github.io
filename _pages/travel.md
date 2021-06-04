@@ -182,14 +182,30 @@ Arizona
 <img src="/files/grand_canyon_arizona.jpg" style="width:300px;"/>
 </p>
 
-Colorado
+Northern Colorado
 ===========================
+<p align="center">
+<img src="/files/steamboat_aspen_colorado.jpg" style="width:300px;"/>
+<img src="/files/aspen_wp_colorado.jpg" style="width:300px;"/>
+<img src="/files/lake_colorado.jpg" style="width:300px;"/>
+</p>
 
 Mammoth 
 ===========================
+<p align="center">
+<img src="/files/me_mammoth.jpg" style="width:300px;"/>
+<img src="/files/grant_mammoth.jpg" style="width:300px;"/>
+<img src="/files/squad_mammoth.jpg" style="width:300px;"/>
+</p>
 
 Utah 
 ===========================
+<p align="center">
+<img src="/files/devils_backbone_utah.jpg" style="width:450px;"/>
+<img src="/files/arches_utah.jpg" style="width:450px;"/>
+</p>
+
+
 
 Lost Coast
 ===========================
@@ -205,6 +221,15 @@ Warner Mountains
 <img src="/files/warner_mountains.jpg" style="width:800px;"/>
 </p>
 
+Western Slope
+===========================
+<p align="center">
+<img src="/files/ouray_colorado.jpg" style="width:300px;"/>
+<img src="/files/san_juans_colorado.jpg" style="width:300px;"/>
+<img src="/files/monument_colorado.jpg" style="width:300px;"/>
+</p>
+
+
 Missoula
 ===========================
 <p align="center">
@@ -215,6 +240,9 @@ Missoula
 
 Yosemite
 ===========================
-
+<p align="center">
+<img src="/files/view_yosemite.jpg" style="width:450px;"/>
+<img src="/files/falls_yosemite.jpg" style="width:450px;"/>
+</p>
 
 
