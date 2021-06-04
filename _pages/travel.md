@@ -10,34 +10,43 @@ When I can, I enjoy spending time outside camping, hiking, and snowboarding, mos
 
 Northern California & Oregon
 ==========================
+<p align="center">
 <img src="/files/norcal_fishing.jpg" style="width:300px;"/>
 <img src="/files/bachelor_view.jpg" style="width:300px;"/>
 <img src="/files/tahoe_view.jpg" style="width:300px;"/>
-
+</p>
+  
 Grand Teton
 ===========================
+<p align="center">
 <img src="/files/alberta_peak_bottom.jpg" style="width:300px;"/>
 <img src="/files/alberta_peak_ascent.jpg" style="width:300px;"/>
 <img src="/files/alberta_peak_descent.jpg" style="width:300px;"/>
-
+</p>
+  
 Palouse Falls
 ===========================
+<p align="center">
 <img src="/files/palouse_falls.jpg" style="width:450px;"/>
 <img src="/files/snake_river_palouse.jpg" style="width:450px;"/>
-
+</p>
+  
 Western Montana & Panhandle Idaho
 ===========================
+<p align="center">
 <img src="/files/bearhat_mountain.jpg" style="width:300px;"/>
 <img src="/files/mt_aeneas.jpg" style="width:300px;"/>
 <img src="/files/thompson_falls.jpg" style="width:300px;"/>
-
+</p>
 
 Joshua Tree
 ===========================
+<p align="center">
 <img src="/files/black_rock_j_tree.jpg" style="width:300px;"/>
 <img src="/files/volcano_j_tree.jpg" style="width:300px;"/>
 <img src="/files/palms_j_tree.jpg" style="width:300px;"/>
-
+</p>
+  
 Wolf Creek  
 ===========================
 <p align="center">
@@ -46,21 +55,26 @@ Wolf Creek
 
 Zion
 ===========================
+<p align="center">
 <img src="/files/white_throne_zion.jpg" style="width:300px;"/>
 <img src="/files/mt_carmel_road_zion.jpg" style="width:300px;"/>
 <img src="/files/angels_landing_zion.jpg" style="width:300px;"/>
-
+</p>
 
 Alaska 
 ===========================
+<p align="center">
 <img src="/files/ocean_alaska.jpg" style="width:450px;"/>
 <img src="/files/glacier_alaska.jpg" style="width:450px;"/>
-
+</p>
+  
 Aspen 
 ===========================
+<p align="center">
 <img src="/files/maroon_bells_aspen.jpg" style="width:300px;"/>
 <img src="/files/kell_aspen.jpg" style="width:300px;"/>
 <img src="/files/liam_kiera_aspen.jpg" style="width:300px;"/>
+</p>
 
 MOregon
 ===========================
@@ -70,37 +84,49 @@ MOregon
 
 Taos
 ===========================
+<p align="center">
 <img src="/files/beer_taos.jpg" style="width:300px;"/>
 <img src="/files/cornice_taos.jpg" style="width:300px;"/>
 <img src="/files/steep_taos.jpg" style="width:300px;"/>
+</p>
 
 Trinity Alps
 ===========================
+<p align="center">
 <img src="/files/one_trinity.jpg" style="width:450px;"/>
 <img src="/files/two_trinity.jpg" style="width:450px;"/>
+</p>
 
 Grand Teton (Summer Edition)
 ===========================
+<p align="center">
 <img src="/files/harbor_teton.jpg" style="width:300px;"/>
 <img src="/files/glacier_teton.jpg" style="width:300px;"/>
 <img src="/files/backside_teton.jpg" style="width:300px;"/>
+</p>
 
 Olympic National Park
 ===========================
+<p align="center">
 <img src="/files/mountain_olympic.jpg" style="width:300px;"/>
 <img src="/files/tree_olympic.jpg" style="width:300px;"/>
 <img src="/files/ocean_olympic.jpg" style="width:300px;"/>
+</p>
 
 Big Sur 
 ===========================
+<p align="center">
 <img src="/files/land_big_sur.jpg" style="width:450px;"/>
 <img src="/files/ocean_big_sur.jpg" style="width:450px;"/>
+</p>
 
 Even MOregon
 ===========================
+<p align="center">
 <img src="/files/lake_oregon.jpg" style="width:300px;"/>
 <img src="/files/sean_evan_oregon.jpg" style="width:300px;"/>
 <img src="/files/tamolitch_oregon.jpg" style="width:300px;"/>
+</p>
 
 Mesa Verde
 ===========================
@@ -110,10 +136,16 @@ Mesa Verde
 
 Lassen
 ===========================
+<p align="center">
 <img src="/files/peak_lassen.jpg" style="width:300px;"/>
 <img src="/files/bumpass_hell_lassen.jpg" style="width:300px;"/>
 <img src="/files/cinder_cone_lassen.jpg" style="width:300px;"/>
+</p>
 
 Death Valley
 ===========================
+<p align="center">
+<img src="/files/furnace_creek_death_valley.jpg" style="width:450px;"/>
+<img src="/files/dunes_death_valley.jpg" style="width:450px;"/>
+</p>
 
