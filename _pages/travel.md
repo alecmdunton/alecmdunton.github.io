@@ -159,6 +159,12 @@ Death Valley
 
 New Mexico
 ===========================
+<p align="center">
+<img src="/files/abq_new_mexico.jpg" style="width:300px;"/>
+<img src="/files/santa_fe_new_mexico.jpg" style="width:300px;"/>
+<img src="/files/rio_grande_new_mexico.jpg" style="width:300px;"/>
+</p>
+
 
 Northern Michigan
 ===========================
