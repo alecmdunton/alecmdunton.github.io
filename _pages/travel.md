@@ -65,7 +65,7 @@ Aspen
 MOregon
 ===========================
 <p align="center">
-<img src="/files/crater_lake_pano.jpg" style="width:900px;"/>
+<img src="/files/crater_lake_pano.jpg" style="width:800px;"/>
 </p>
 
 Taos
