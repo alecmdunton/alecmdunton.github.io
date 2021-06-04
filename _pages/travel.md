@@ -176,6 +176,11 @@ Northern Michigan
 
 Arizona
 ==========================
+<p align="center">
+<img src="/files/saguaro_arizona.jpg" style="width:300px;"/>
+<img src="/files/sedona_arizona.jpg" style="width:300px;"/>
+<img src="/files/grand_canyon_arizona.jpg" style="width:300px;"/>
+</p>
 
 Colorado
 ===========================
