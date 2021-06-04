@@ -259,4 +259,37 @@ Yosemite
 <img src="/files/falls_yosemite.jpg" style="width:450px;"/>
 </p>
 
+San Gabriels
+===========================
+
+Southern Idaho
+===========================
+
+Vancouver
+===========================
+
+Research Triangle
+===========================
+
+Chicago 
+===========================
+
+NYC
+===========================
+
+Humboldt Country
+===========================
+
+Ann Arbor 
+===========================
+
+Indiana & Illinois 
+===========================
+
+Central Coast 
+===========================
+
+Oregon
+===========================
+
 
