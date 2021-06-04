@@ -71,7 +71,7 @@ Alaska
 Solar Eclipse near Glenrock Wyoming
 ===========================
 <p align="center">
-<img src="/files/warner_mountains.jpg" style="width:600px;"/>
+<img src="/files/solar_eclipse.jpg" style="width:600px;"/>
 </p>
   
 Aspen 
