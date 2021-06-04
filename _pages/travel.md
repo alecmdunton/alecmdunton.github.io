@@ -186,7 +186,7 @@ Northern Colorado
 ===========================
 <p align="center">
 <img src="/files/steamboat_aspen_colorado.jpg" style="width:300px;"/>
-<img src="/files/aspen_wp_colorado.jpg" style="width:300px;"/>
+<img src="/files/aspens_wp_colorado.jpg" style="width:300px;"/>
 <img src="/files/lake_colorado.jpg" style="width:300px;"/>
 </p>
 
@@ -224,7 +224,7 @@ Warner Mountains
 Western Slope
 ===========================
 <p align="center">
-<img src="/files/ouray_colorado.jpg" style="width:300px;"/>
+<img src="/files/black_canyon_colorado.jpg" style="width:300px;"/>
 <img src="/files/san_juans_colorado.jpg" style="width:300px;"/>
 <img src="/files/monument_colorado.jpg" style="width:300px;"/>
 </p>
