@@ -40,6 +40,7 @@ Joshua Tree
 
 Wolf Creek  
 ===========================
+<img src="/files/wolf_creek.jpg" style="width:300px;"/
 
 Zion
 ===========================
