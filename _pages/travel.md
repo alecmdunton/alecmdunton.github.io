@@ -93,6 +93,8 @@ Olympic National Park
 
 Big Sur 
 ===========================
+<img src="/files/land_big_sur.jpg" style="width:450px;"/>
+<img src="/files/ocean_big_sur.jpg" style="width:450px;"/>
 
 Even MOregon
 ===========================
