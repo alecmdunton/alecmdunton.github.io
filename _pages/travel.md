@@ -68,7 +68,7 @@ Alaska
 <img src="/files/glacier_alaska.jpg" style="width:450px;"/>
 </p>
 
-Solar Eclipse near Glenrock, Wyoming
+Solar Eclipse near Glenrock, Wyoming. Taken at 11:44 AM.
 ===========================
 <p align="center">
 <img src="/files/solar_eclipse.jpg" style="width:600px;"/>
