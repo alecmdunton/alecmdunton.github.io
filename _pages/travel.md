@@ -70,6 +70,9 @@ MOregon
 
 Taos
 ===========================
+<img src="/files/beer_taos.jpg" style="width:300px;"/>
+<img src="/files/cornice_taos.jpg" style="width:300px;"/>
+<img src="/files/steep_taos.jpg" style="width:300px;"/>
 
 Trinity Alps
 ===========================
