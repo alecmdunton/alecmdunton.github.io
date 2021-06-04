@@ -67,6 +67,12 @@ Alaska
 <img src="/files/ocean_alaska.jpg" style="width:450px;"/>
 <img src="/files/glacier_alaska.jpg" style="width:450px;"/>
 </p>
+
+Solar Eclipse near Glenrock Wyoming
+===========================
+<p align="center">
+<img src="/files/warner_mountains.jpg" style="width:600px;"/>
+</p>
   
 Aspen 
 ===========================
