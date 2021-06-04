@@ -259,6 +259,9 @@ Yosemite
 <img src="/files/falls_yosemite.jpg" style="width:450px;"/>
 </p>
 
+Coming soon...
+===========================
+
 San Gabriels
 ===========================
 
