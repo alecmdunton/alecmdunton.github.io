@@ -207,6 +207,11 @@ Warner Mountains
 
 Missoula
 ===========================
+<p align="center">
+<img src="/files/mountain_missoula.jpg" style="width:300px;"/>
+<img src="/files/view_missoula.jpg" style="width:300px;"/>
+<img src="/files/river_missoula.jpg" style="width:300px;"/>
+</p>
 
 Yosemite
 ===========================
