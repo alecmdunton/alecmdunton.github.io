@@ -146,7 +146,7 @@ Southern Wyoming & Northern Colorado
 ===========================
 
 <p align="center">
-<img src="/files/medicine_bow.jpg" style="width:450px;"/>
+<img src="/files/sunset_medicine_bow.jpg" style="width:450px;"/>
 <img src="/files/northern_colorado.jpg" style="width:450px;"/>
 </p>
 
