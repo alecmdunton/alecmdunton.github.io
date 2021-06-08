@@ -318,8 +318,13 @@ Ann Arbor
 <img src="/files/tunnel_ann_arbor.jpg" style="width:300px;"/>
 </p>
 
-Indiana & Illinois 
+Indiana 
 ===========================
+<p align="center">
+<img src="/files/red_lion_indiana.jpg" style="width:300px;"/>
+<img src="/files/family_indiana.jpg" style="width:300px;"/>
+<img src="/files/mother_bears_indiana.jpg" style="width:300px;"/>
+</p>
 
 Central Coast 
 ===========================
