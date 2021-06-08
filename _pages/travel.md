@@ -290,12 +290,19 @@ Southern Idaho
 
 Chicago 
 ===========================
+<p align="center">
+<img src="/files/lake_chicago.jpg" style="width:450px;"/>
+<img src="/files/night_chicago.jpg" style="width:450px;"/>
+</p>
 
 NYC
 ===========================
+<p align="center">
+<img src="/files/starry_night_nyc.jpg" style="width:300px;"/>
+<img src="/files/radaghast_nyc.jpg" style="width:300px;"/>
+<img src="/files/central_park_nyc.jpg" style="width:300px;"/>
+</p>
 
-Coming soon...
-===========================
 
 Humboldt Country
 ===========================
