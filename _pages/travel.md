@@ -279,11 +279,13 @@ Vancouver
 <img src="/files/three_buildings_vancouver.jpg" style="width:300px;"/>
 </p>
 
-Coming soon...
-===========================
 
 Southern Idaho
 ===========================
+<p align="center">
+<img src="/files/craters_idaho.jpg" style="width:450px;"/>
+<img src="/files/shoshone_idaho.jpg" style="width:450px;"/>
+</p>
 
 Research Triangle
 ===========================
@@ -292,6 +294,9 @@ Chicago
 ===========================
 
 NYC
+===========================
+
+Coming soon...
 ===========================
 
 Humboldt Country
