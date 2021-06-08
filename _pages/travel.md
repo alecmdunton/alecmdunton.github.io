@@ -287,8 +287,6 @@ Southern Idaho
 <img src="/files/shoshone_idaho.jpg" style="width:450px;"/>
 </p>
 
-Research Triangle
-===========================
 
 Chicago 
 ===========================
