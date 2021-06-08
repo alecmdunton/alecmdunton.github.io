@@ -82,7 +82,7 @@ Aspen
 <img src="/files/liam_kiera_aspen.jpg" style="width:300px;"/>
 </p>
 
-MOregon
+Crater Lake
 ===========================
 <p align="center">
 <img src="/files/crater_lake_pano.jpg" style="width:800px;"/>
@@ -126,7 +126,7 @@ Big Sur
 <img src="/files/ocean_big_sur.jpg" style="width:450px;"/>
 </p>
 
-Even MOregon
+Central Cascades
 ===========================
 <p align="center">
 <img src="/files/lake_oregon.jpg" style="width:300px;"/>
@@ -333,7 +333,7 @@ Central Coast
 <img src="/files/seals_central_coast.jpg" style="width:450px;"/>
 </p>
 
-Oregon
+North Umpqua
 ===========================
 <p align="center">
 <img src="/files/toketee_oregon.jpg" style="width:300px;"/>
