@@ -306,6 +306,9 @@ NYC
 
 Humboldt Country
 ===========================
+<p align="center">
+<img src="/files/coast_humboldt.jpg" style="width:800px;"/>
+</p>
 
 Ann Arbor 
 ===========================
