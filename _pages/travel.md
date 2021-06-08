@@ -259,16 +259,30 @@ Yosemite
 <img src="/files/falls_yosemite.jpg" style="width:450px;"/>
 </p>
 
-Coming soon...
-===========================
+
 
 San Gabriels
 ===========================
+<p align="center">
+<img src="/files/waterfall_san_gabriels.jpg" style="width:300px;"/>
+<img src="/files/lombardo_san_gabriels.jpg" style="width:300px;"/>
+<img src="/files/snow_san_gabriels.jpg" style="width:300px;"/>
+</p>
 
-Southern Idaho
-===========================
+
 
 Vancouver
+===========================
+<p align="center">
+<img src="/files/totem_vancouver.jpg" style="width:300px;"/>
+<img src="/files/one_building_vancouver.jpg" style="width:300px;"/>
+<img src="/files/three_buildings_vancouver.jpg" style="width:300px;"/>
+</p>
+
+Coming soon...
+===========================
+
+Southern Idaho
 ===========================
 
 Research Triangle
