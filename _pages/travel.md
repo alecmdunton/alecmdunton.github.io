@@ -328,6 +328,10 @@ Indiana
 
 Central Coast 
 ===========================
+<p align="center">
+<img src="/files/car_central_coast.jpg" style="width:450px;"/>
+<img src="/files/seals_central_coast.jpg" style="width:450px;"/>
+</p>
 
 Oregon
 ===========================
