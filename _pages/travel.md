@@ -30,6 +30,12 @@ Palouse Falls
 <img src="/files/palouse_falls.jpg" style="width:450px;"/>
 <img src="/files/snake_river_palouse.jpg" style="width:450px;"/>
 </p>
+
+Mount Ashland
+===========================
+<p align="center">
+<img src="/files/mt_ashland.jpg" style="width:900px;"/>
+</p>
   
 Western Montana & Panhandle Idaho
 ===========================
