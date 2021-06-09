@@ -8,7 +8,7 @@ author_profile: true
 
 When I can, I enjoy spending time outside camping, hiking, and snowboarding, mostly in the western U.S. When I can't, I'm planning my next trip.  In no particular order, here are a few snaps of places I've been in recent years (some of them I've been to many times). As I fill this page in, I hope to add descriptions and recs for each place. Also, I am aware that this page takes a long time to load - it is very much a work in progress!
 
-Lake Shasta, Mt. Bachelor, North Lake Tahoe
+Lake Shasta, Mt. Bachelor, & North Lake Tahoe
 ==========================
 <p align="center">
 <img src="/files/norcal_fishing.jpg" style="width:300px;"/>
