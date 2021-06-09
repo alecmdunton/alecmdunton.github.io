@@ -16,7 +16,7 @@ Lake Shasta, Mount Bachelor, & North Lake Tahoe
 <img src="/files/tahoe_view.jpg" style="width:300px;"/>
 </p>
   
-Grand Teton
+Alberta Peak Ascent, Grand Teton
 ===========================
 <p align="center">
 <img src="/files/alberta_peak_bottom.jpg" style="width:300px;"/>
