@@ -45,13 +45,13 @@ Western Montana & Panhandle Idaho
 <img src="/files/thompson_falls.jpg" style="width:300px;"/>
 </p>
 
-Joshua Tree
+<!-- Joshua Tree
 ===========================
 <p align="center">
 <img src="/files/black_rock_j_tree.jpg" style="width:300px;"/>
 <img src="/files/volcano_j_tree.jpg" style="width:300px;"/>
 <img src="/files/palms_j_tree.jpg" style="width:300px;"/>
-</p>
+</p> -->
   
 Wolf Creek  
 ===========================
@@ -59,13 +59,13 @@ Wolf Creek
 <img src="/files/wolf_creek.JPG" style="width:800px;"/>
 </p>
 
-Zion
+<!-- Zion
 ===========================
 <p align="center">
 <img src="/files/white_throne_zion.jpg" style="width:300px;"/>
 <img src="/files/mt_carmel_road_zion.jpg" style="width:300px;"/>
 <img src="/files/angels_landing_zion.jpg" style="width:300px;"/>
-</p>
+</p> -->
 
 Alaska 
 ===========================
@@ -140,6 +140,7 @@ Central Cascades
 <img src="/files/tamolitch_oregon.jpg" style="width:300px;"/>
 </p>
  -->
+ 
 Mesa Verde
 ===========================
 <p align="center">
