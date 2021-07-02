@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-When I can, I enjoy spending time outside camping, hiking, and snowboarding, mostly in the western U.S. When I can't, I'm planning my next trip.  In no particular order, here are a few snaps of places I've been in recent years (some of them I've been to many times). As I fill this page in, I hope to add descriptions and recs for each place. Also, I am aware that this page takes a long time to load (in particular on mobile devices) - it is very much a work in progress!
+When I can, I enjoy spending time outside camping, hiking, and snowboarding, mostly in the western U.S. When I can't, I'm planning my next trip.  In no particular order, here are a few snaps of places I've been in recent years. As I fill this page in, I hope to add descriptions and recs for each place. 
 
 Lake Shasta, Mount Bachelor, & North Lake Tahoe
 ==========================
@@ -92,7 +92,7 @@ Crater Lake
 ===========================
 <p align="center">
 <img src="/files/crater_lake_pano.jpg" style="width:800px;"/>
-</p>
+</p> -->
 
 Taos
 ===========================
@@ -109,7 +109,7 @@ Trinity Alps
 <img src="/files/two_trinity.jpg" style="width:450px;"/>
 </p>
 
-Grand Teton (Summer Edition)
+<!-- Grand Teton (Summer Edition)
 ===========================
 <p align="center">
 <img src="/files/harbor_teton.jpg" style="width:300px;"/>
@@ -139,7 +139,7 @@ Central Cascades
 <img src="/files/sean_evan_oregon.jpg" style="width:300px;"/>
 <img src="/files/tamolitch_oregon.jpg" style="width:300px;"/>
 </p>
-
+ -->
 Mesa Verde
 ===========================
 <p align="center">
@@ -154,7 +154,7 @@ Lassen
 <img src="/files/cinder_cone_lassen.jpg" style="width:300px;"/>
 </p>
 
-Southern Wyoming & Northern Colorado
+<!-- Southern Wyoming & Northern Colorado
 ===========================
 
 <p align="center">
@@ -233,7 +233,7 @@ Lost Coast
 <img src="/files/foggy_lost_coast.jpg" style="width:300px;"/>
 <img src="/files/sunny_lost_coast.jpg" style="width:300px;"/>
 <img src="/files/sunset_lost_coast.jpg" style="width:300px;"/>
-</p>
+</p> -->
 
 Warner Mountains
 ===========================
@@ -250,7 +250,7 @@ Western Slope
 </p>
 
 
-Missoula
+<!-- Missoula
 ===========================
 <p align="center">
 <img src="/files/mountain_missoula.jpg" style="width:300px;"/>
@@ -345,6 +345,6 @@ North Umpqua
 <img src="/files/toketee_oregon.jpg" style="width:300px;"/>
 <img src="/files/springs_oregon.jpg" style="width:300px;"/>
 <img src="/files/brook_oregon.jpg" style="width:300px;"/>
-</p>
- -->
+</p> -->
+
 
