@@ -74,7 +74,7 @@ Alaska
 <img src="/files/glacier_alaska.jpg" style="width:450px;"/>
 </p>
 
-Solar Eclipse near Glenrock, Wyoming. Taken at 11:44 AM.
+<!-- Solar Eclipse near Glenrock, Wyoming. Taken at 11:44 AM.
 ===========================
 <p align="center">
 <img src="/files/solar_eclipse.jpg" style="width:600px;"/>
@@ -346,5 +346,5 @@ North Umpqua
 <img src="/files/springs_oregon.jpg" style="width:300px;"/>
 <img src="/files/brook_oregon.jpg" style="width:300px;"/>
 </p>
-
+ -->
 
