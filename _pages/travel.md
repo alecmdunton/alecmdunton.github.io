@@ -236,11 +236,11 @@ Lost Coast
 <img src="/files/sunset_lost_coast.jpg" style="width:300px;"/>
 </p> -->
 
-Warner Mountains
+<!-- Warner Mountains
 ===========================
 <p align="center">
 <img src="/files/warner_mountains.jpg" style="width:800px;"/>
-</p>
+</p> -->
 
 Western Slope
 ===========================
