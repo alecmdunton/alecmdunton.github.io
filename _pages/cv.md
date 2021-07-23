@@ -18,11 +18,15 @@ Education
 ======
 * BS in Mathematics, Harvey Mudd College, 2016
 * MS in Applied Mathematics, University of Colorado Boulder, 2018
-* PhD in Applied Mathematics, University of Colorado Boulder, 2021 (expected)
+* PhD in Applied Mathematics, University of Colorado Boulder, 2021 
 
 Work experience
 ======
-* Summer 2017-Present: Research Assistant
+* Fall 2021-Present: Machine Learning Postdoctoral Researcher
+  * Center for Applied Scientific Computing, Lawrence Livermore National Laboratory
+
+
+* Summer 2017-Summer 2021: Research Assistant
   * University of Colorado Boulder
   * Supervisor: Dr. Alireza Doostan
 
