@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory. I recently completed my PhD in applied mathematics at CU Boulder, where I worked with Prof. Alireza Doostan and studied matrix methods for dimensionality reduction of large datasets.  
+I am an incoming postdoctoral researcher in the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory. I recently completed my PhD in applied mathematics at CU Boulder, where I worked with Prof. Alireza Doostan and studied matrix methods for dimensionality reduction of large datasets.  
 
 Prior to CU, I completed my undergraduate degree in mathematics at Harvey Mudd College in Claremont, California. I did my senior thesis with Prof. Andrew Bernoff, under whose mentorship I developed methods using algebraic topology to identify persistent topological structures in dynamical systems.  
 
@@ -40,3 +40,16 @@ Matrix Sketching
 ------
 
 Matrix sketching has played a central role in almost all of my research as a PhD student. Matrix sketching is a linear dimensionality reduction technique wherein a large-scale data matrix is embedded in a lower dimension via application of a linear operator. If this linear operator is constructed properly, the resulting sketch matrix will preserve important geometric properties of the input matrix in a significantly lower dimensional space. 
+
+Applications
+======
+
+The research I have conducted as a graduate student has myriad applications, two of which I address directly in my publications: data compression and graph clustering. 
+
+Data Compression
+------
+
+Community Detection in Networks
+------
+
+
