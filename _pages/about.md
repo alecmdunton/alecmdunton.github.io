@@ -52,6 +52,6 @@ Linear and nonlinear dimensionality reduction methods can be used to embed large
 Community Detection in Networks
 ------
 
-Matrix sketching, coupled with nonlinear dimensionality reduction methods like Uniform Manifold Approximation and Projection (UMAP) enables online clustering of large-scale graphs stored in distributed memory. 
+Matrix sketching, coupled with nonlinear dimensionality reduction methods like Uniform Manifold Approximation and Projection (UMAP), enables online clustering of large-scale graphs stored in distributed memory. The linear-nonlinear hybrid approach takes advantages of the efficiency of linear matrix sketches and differential geometric structures identified by manifold learning methods like UMAP. 
 
 
