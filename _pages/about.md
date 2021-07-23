@@ -34,8 +34,6 @@ Online Algorithms
 
 Across my projects, whether the goal is compressing data or identifying clusters in large-scale graphs, I am interested in building algorithms that achieve performant results having seen their input once, i.e., online algorithms. When the data we have to process exceeds available RAM -- or even disk memory -- we want to minimize the number of passes we make over our input and the associated costs of memory movement. Online approaches help us address this concern.
 
-
-
 Matrix Sketching
 ------
 
@@ -49,7 +47,11 @@ The research I have conducted as a graduate student has myriad applications, two
 Data Compression
 ------
 
+Linear and nonlinear dimensionality reduction methods can be used to embed large data matrices in low-dimensional spaces. In the linear case, this takes the form of, e.g., a low-rank approximation; in the nonlinear setting, generalized coordinates corresponding to the low-dimensional manifold on which the data lives. The embedded data, along with the approximate reconstruction mapping, constitute a compressed format of the input data. 
+
 Community Detection in Networks
 ------
+
+Matrix sketching, coupled with nonlinear dimensionality reduction methods like Uniform Manifold Approximation and Projection (UMAP) enables online clustering of large-scale graphs stored in distributed memory. 
 
 
