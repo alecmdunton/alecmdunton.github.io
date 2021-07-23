@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory and PhD candidate in the Department of Applied Mathematics at the University of Colorado Boulder, expecting to finish my doctorate this summer. I work with Dr. Alireza Doostan and am a member of the Uncertainty Quantification, Learning, and Estimation from Data (UQLED) Group. 
+I am an incoming postdoctoral researcher at the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory. I recently completed my PhD at CU Boulder, where I worked with Dr. Alireza Doostan studied matrix methods for dimensionality reduction of large datasets.  
 
 Prior to CU, I completed my undergraduate degree in mathematics at Harvey Mudd College in Claremont, California. I did my senior thesis with Dr. Andrew Bernoff, under whose mentorship I developed methods using algebraic topology to identify persistent topological structures in dynamical systems.  
 
