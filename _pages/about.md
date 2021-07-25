@@ -47,7 +47,7 @@ The research I have conducted as a graduate student has myriad applications, two
 Data Compression
 ------
 
-Linear and nonlinear dimensionality reduction methods can be used to embed large data matrices in low-dimensional spaces. In the linear case, this takes the form of, e.g., a low-rank approximation; in the nonlinear setting, generalized coordinates corresponding to the low-dimensional manifold on which the data lives. The embedded data, along with the approximate reconstruction mapping, constitute a compressed format of the input data. For more information on this, please see the following papers: (http://alecmdunton.github.io/files/pass_efficient.pdf)
+Linear and nonlinear dimensionality reduction methods can be used to embed large data matrices in low-dimensional spaces. In the linear case, this takes the form of, e.g., a low-rank approximation; in the nonlinear setting, generalized coordinates corresponding to the low-dimensional manifold on which the data lives. The embedded data, along with the approximate reconstruction mapping, constitute a compressed format of the input data. For more information on this, please see the following papers: [](http://alecmdunton.github.io/files/pass_efficient.pdf)
 
 Community Detection in Networks
 ------
