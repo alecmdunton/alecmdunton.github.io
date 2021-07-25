@@ -47,11 +47,11 @@ The research I have conducted as a graduate student has myriad applications, two
 Data Compression
 ------
 
-Linear and nonlinear dimensionality reduction methods can be used to embed large data matrices in low-dimensional spaces. In the linear case, this takes the form of, e.g., a low-rank approximation; in the nonlinear setting, generalized coordinates corresponding to the low-dimensional manifold on which the data lives. The embedded data, along with the approximate reconstruction mapping, constitute a compressed format of the input data. For more information on this, please see the following [paper](http://alecmdunton.github.io/files/pass_efficient.pdf).
+Linear and nonlinear dimensionality reduction methods can be used to embed large data matrices in low-dimensional spaces. In the linear case, this takes the form of, e.g., a low-rank approximation; in the nonlinear setting, generalized coordinates corresponding to the low-dimensional manifold on which the data lives. The embedded data, along with the approximate reconstruction mapping, constitute a compressed format of the input data. For more information, please see our [paper](http://alecmdunton.github.io/files/graph_distributed_sketches.pdf).
 
 Community Detection in Networks
 ------
 
-Matrix sketching, coupled with nonlinear dimensionality reduction methods like Uniform Manifold Approximation and Projection (UMAP), enables online clustering of large-scale graphs stored in distributed memory. The linear-nonlinear hybrid approach takes advantages of the efficiency of linear matrix sketches and nonlinear structures identified by manifold learning methods like UMAP. For more information on this, please see the following paper:
+Matrix sketching, coupled with nonlinear dimensionality reduction methods like Uniform Manifold Approximation and Projection (UMAP), enables online clustering of large-scale graphs stored in distributed memory. The linear-nonlinear hybrid approach takes advantages of the efficiency of linear matrix sketches and nonlinear structures identified by manifold learning methods like UMAP. For more information, please see our [paper](http://alecmdunton.github.io/files/pass_efficient.pdf).
 
 
