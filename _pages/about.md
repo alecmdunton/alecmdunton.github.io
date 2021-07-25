@@ -12,7 +12,7 @@ I am an incoming postdoctoral researcher in the Center for Applied Scientific Co
 
 Prior to CU, I completed my BS in mathematics at Harvey Mudd College in Claremont, California. I did my senior thesis with Prof. Andrew Bernoff, under whose mentorship I developed methods using algebraic topology to identify persistent topological structures in dynamical systems.  
 
-A common theme connecting my work back to my days at Mudd is using data-driven approaches to study physical systems, especially when doing so relies on rigorous mathematical theory. I have always been particularly interested in identifying low-dimensional features in high-dimensional datasets. The applications of my work vary from clustering and visualization to data compression.
+A common theme connecting my work back to my days at Mudd is using data-driven approaches to study physical systems, especially when doing so relies on interesting mathematical theory. I have always been particularly interested in identifying low-dimensional features in high-dimensional datasets. The applications of my work vary from clustering and visualization to data compression.
 
 Current Research Interests 
 ======
