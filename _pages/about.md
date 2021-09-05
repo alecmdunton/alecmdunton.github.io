@@ -17,7 +17,7 @@ A common theme connecting my work back to my days at Mudd is using data-driven a
 Current Research Interests 
 ======
 
-The following topics encapsulate most of the work I did as a PhD student at CU and an intern at Lawrence Livermore National Laboratory.
+The following topics encapsulate most of the work I did as a PhD student at CU and Lawrence Livermore National Laboratory.
 
 Nonlinear Dimensionality Reduction 
 ------
